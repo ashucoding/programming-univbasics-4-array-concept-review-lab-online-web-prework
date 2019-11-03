@@ -18,5 +18,5 @@ if array[index] > x
 end
 
 def find_min_value(array)
- 
+ x = array[0]
 end
